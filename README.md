@@ -2,14 +2,6 @@
 
 Este repositório apresenta o modelo conceitual de um banco de dados projetado para um sistema de controle e gerenciamento de Ordens de Serviço (OS) em uma oficina mecânica. O principal objetivo deste projeto é otimizar o fluxo de trabalho da oficina, desde o momento em que um veículo é recebido para manutenção até a conclusão e entrega dos serviços.
 
-## Descrição do Desafio
-
-O desafio proposto consistiu em desenvolver um esquema conceitual de banco de dados. Para isso, foi utilizada uma narrativa detalhada que descrevia os processos e requisitos de uma oficina mecânica. A partir dessa narrativa, foram identificadas e modeladas todas as entidades, seus respectivos atributos e os relacionamentos existentes entre elas. Nos casos em que a narrativa não fornecia detalhes suficientes, decisões foram tomadas com base no entendimento do contexto de uma oficina, e essas decisões são explicadas em uma seção específica deste README.
-
-## Objetivo
-
-O objetivo central deste projeto é a criação de um esquema conceitual de banco de dados robusto e funcional, que sirva como base para a implementação de um sistema de gerenciamento de ordens de serviço para uma oficina mecânica, alinhado com a narrativa e os requisitos levantados.
-
 ## Narrativa Base (Requisitos do Projeto)
 
 A seguir, estão os principais pontos da narrativa que guiaram a construção do modelo:
